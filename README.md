@@ -2,10 +2,16 @@
 
 Release-only distribution for ClawBuild CLI.
 
-Install:
+Install latest:
 
 ```bash
-npm install -g https://github.com/fightmonster/clawbuild-cli/releases/download/v0.2.1/clawbuild-cli.tgz
+npm install -g https://github.com/fightmonster/clawbuild-cli/releases/latest/download/clawbuild-cli.tgz
+```
+
+Update later:
+
+```bash
+clawbuild update --yes
 ```
 
 Verify:
