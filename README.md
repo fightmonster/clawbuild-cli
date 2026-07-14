@@ -14,6 +14,16 @@ Update later:
 clawbuild update --yes
 ```
 
+Local first-use example on a build machine:
+
+```bash
+clawbuild setup --mode local \
+  --root /data/platform/Phoenix \
+  --workspace-name phoenix \
+  --project-name phoenix \
+  --template phoenix-mtk
+```
+
 Verify:
 
 ```bash
