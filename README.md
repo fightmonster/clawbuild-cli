@@ -2,6 +2,15 @@
 
 Release-only distribution for ClawBuild CLI.
 
+Current release:
+
+```text
+version: 0.3.2
+asset: clawbuild-cli-0.3.2.tgz
+latest: clawbuild-cli.tgz
+sha256: 53f6291b225081d6ac94d1f5ab588c31d933d4b45cf2a5e3c5f24ac27f68ca71
+```
+
 Install latest:
 
 ```bash
