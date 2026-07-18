@@ -8,7 +8,7 @@ Current release:
 version: 0.3.2
 asset: clawbuild-cli-0.3.2.tgz
 latest: clawbuild-cli.tgz
-sha256: 53f6291b225081d6ac94d1f5ab588c31d933d4b45cf2a5e3c5f24ac27f68ca71
+sha256: 37351f05738330413422c4d0904be4cfd2ad9c5a841b58d62d669edcf60bff72
 ```
 
 Install latest:
